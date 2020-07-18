@@ -1,6 +1,6 @@
 # angular-theming [Click here to see our app in action](https://imatechnophile.github.io/angular-theming/)
 
-It is just an Weekend Edutainment Project. Use SCSS in your Projects.
+It is just an weekend edutainment project. Use SCSS in your upcoming projects.
 SCSS is a preprocessor which lets you use features that aren't a part of the wider CSS standard yet, and provides better workflows for maintaining your stylesheets.
 
 ## Use case:
