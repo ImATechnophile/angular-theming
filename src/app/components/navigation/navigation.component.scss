@@ -1,0 +1,20 @@
+@import 'theme';
+/*@import 'functions';*/
+
+.navigation {
+  /*background-color: $headercolor;*/
+  background-color: var(--navBackground);
+  color: var(--navColor);
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 0;
+  height: 50px;
+  font-family: $default-font;
+  padding: 24px;
+  margin: 0;
+  margin-bottom: 50px;
+
+  p {
+    margin: 0;
+  }
+}
