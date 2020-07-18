@@ -1,12 +1,13 @@
 # angular-theming [Click here to see our app in action](https://imatechnophile.github.io/angular-theming/)
 
-It is just an Weekend Edutainment Project. 
+It is just an Weekend Edutainment Project. Use SCSS in your Projects.
+SCSS is a preprocessor which lets you use features that aren't a part of the wider CSS standard yet, and provides better workflows for maintaining your stylesheets.
 
 ## Use case:
-* Change the entire look of your application from single place.
+* Change the entire look of your application from the single place.
 * Easy Customization
-* Use different looks for different version of the app. So that based on the UI users can understands the version.
-* Allow users to customize their accountas per their wish.(DB- Store user's colour preference in a separate document/table)
+* Use different looks for different version of the app. So that based on the UI, users can understands the version.
+* Allow users to customize their account as per their wish.(DB- Store user's colour preference in a separate document/table)
 
 ## Demo Pics:
 * Landing page:
