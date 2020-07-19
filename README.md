@@ -4,10 +4,10 @@ It is just an weekend edutainment project. Use SCSS in your upcoming projects.
 SCSS is a preprocessor which lets you use features that aren't a part of the wider CSS standard yet, and provides better workflows for maintaining your stylesheets.
 
 ## Use case:
-* Change the entire look of your application from the single place.
+* Change the entire look of your application from a single place.
 * Easy Customization
-* Use different looks for different version of the app. So that based on the UI, users can understands the version.
-* Allow users to customize their account as per their wish.(DB- Store user's colour preference in a separate document/table)
+* Use different looks for different versions of the app. So that based on the UI, users can understand the version.
+* Allow users to customize their account as per their wish.(DB- Store user's color preference in a separate document/table)
 
 ## Demo Pics:
 * Landing page:
